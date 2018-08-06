@@ -11,6 +11,6 @@ from random import *
 characters = string.ascii_letters + string.punctuation  + string.digits
 # This creates the password.
 password =  "".join(choice(characters) for x in range(randint(16, 18)))
-# adjust passowrd length by varying randint (shortest, longest)
+# adjust password length by varying randint (shortest, longest)
 
 print (password)
