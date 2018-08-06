@@ -8,7 +8,7 @@ This code is designed to work on a Linux machine using Python3.
 
 ### Downloading this repository:
 
-This project should run on any variant of python3 and can be run in from BASH
+This project should run on any variant of python3 and can be run directly in your shell of choice.
 
 You can install it from this repository:
 ```
