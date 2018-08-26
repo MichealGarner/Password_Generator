@@ -28,3 +28,6 @@ $ ./Password_Generator.py
 ## Acknowledgments
 
 Various source across the internet.
+
+Recently found a very similiar version of this here:
+* https://www.pythonforbeginners.com/code-snippets-source-code/script-password-generator
